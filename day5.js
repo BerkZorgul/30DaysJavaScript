@@ -35,7 +35,7 @@ const numbers = [1,7,8,2,6,5]
 console.log(numbers)
 
 numbers.sort()
-console.log(numbers)
+console.log(numbers) 
 
 
 //  let names2 = "berk".split("")
